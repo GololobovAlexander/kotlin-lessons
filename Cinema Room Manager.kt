@@ -1,6 +1,6 @@
 package cinema
 
-var ticketsPurchased = 0 // that's bad
+var ticketsPurchased = 0
 var currentIncome = 0
 
 fun createSeats(x: Int, y: Int): MutableList<MutableList<Char>> {
